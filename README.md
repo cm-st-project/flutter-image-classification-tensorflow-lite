@@ -4,8 +4,9 @@
    * The Introduction to AI
    * AI in Actions with Sklearn
    * The Introduction to Deep Learning
-   ** https://github.com/cm-st-project/flutter-image-classification-tensorflow-lite
+      * https://github.com/cm-st-project/flutter-image-classification-tensorflow-lite
    * Deep Learning in Actions with Keras 
+      *  https://colab.research.google.com/drive/1DkyBsN5liUfzGXl08KhYBiSsVPKKsGiU#scrollTo=QPyypnIm-c2k
 2. TensorFlow Lite
    * TensorFlow Lite Training Environment
    * TensorFlow Lite Training, Validation, and Prediction
