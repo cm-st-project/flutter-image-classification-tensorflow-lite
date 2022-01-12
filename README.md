@@ -1,5 +1,7 @@
 # flutter-image-classification-tensorflow-lite
 
+## Curriculum 
+
 1. AI
    * The Introduction to AI
    * AI in Actions with Sklearn
@@ -27,3 +29,12 @@
    * Publish Preparation
    * Google Play
    * Apple Store
+
+## References
+1. TensorFlow Lite
+   * https://www.tensorflow.org/lite
+   * https://www.tensorflow.org/lite/tutorials/model_maker_image_classification
+2. TensorFlow Lite & Flutter 
+   * https://pub.dev/packages/tflite_flutter
+   * https://pub.dev/packages/tflite
+  
