@@ -19,6 +19,7 @@
    * Milestone 4: Test the new model with new test images
 4. Mobile Flutter 
    * Milestone 1: Flutter Setup - Your First Sample App in Emulator
+     * https://youtu.be/JSo0rOMmJOI
    * Milestone 2: UI Design and Wireframe - Get Your UI Wireframe
    * Milestone 3: Flutter Basics - Implement the App Skeleton with Screen Navigation 
 5. TensorFlow Lite Flutter
@@ -37,4 +38,6 @@
 2. TensorFlow Lite & Flutter 
    * https://pub.dev/packages/tflite_flutter
    * https://pub.dev/packages/tflite
+3. Flutter Tutorials
+   * https://www.youtube.com/playlist?list=PLOPZGifDyNifcwTaEdatdFlKxan-6wgdq
   
