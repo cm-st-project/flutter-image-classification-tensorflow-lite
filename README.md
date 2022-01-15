@@ -4,6 +4,7 @@
 
 1. AI
    * The Introduction to AI
+      * Lecture sample: https://youtu.be/EjFanvsr-vk
    * AI in Actions with Sklearn
    * The Introduction to Deep Learning
       * https://docs.google.com/presentation/d/1iUEYAbImuvyEYo-rqdGm_wqxmSKe7bzet2szH40g7BI/edit?usp=sharing
