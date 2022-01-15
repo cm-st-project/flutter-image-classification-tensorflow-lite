@@ -55,10 +55,19 @@
    * References
      * Follow the tutorial: Video 02-09 [Playlist](https://www.youtube.com/playlist?list=PLOPZGifDyNifcwTaEdatdFlKxan-6wgdq)
    * Milestones and Goals
-     * Milestone 2: UI Design and Wireframe - Get Your UI Wireframe
+     * Add 3 new screens to the sample app and implement a simple navigation
 
 3. Flutter Basic UI
-   * Milestone 3: Flutter Basics - Implement the App Skeleton with Screen Navigation 
+   * Topics
+     * UI Layout
+     * UI Widge
+     * ListView
+   * References
+     * Follow the tutorial: Video 10-22 [Playlist](https://www.youtube.com/playlist?list=PLOPZGifDyNifcwTaEdatdFlKxan-6wgdq)
+     * UI Wireframe: [Sample](https://maxcdn.icons8.com/app/uploads/2018/06/wireframing-tips.jpg)
+   * Milestones and Goals
+     * UI Design and Wireframe - Get Your UI Wireframe
+     * Implement the App Skeleton with Screen Navigation based on the wireframe
 
 ### Module 4: Flutter + TensorFlow Lite
 1. TensorFlow Lite Flutter
