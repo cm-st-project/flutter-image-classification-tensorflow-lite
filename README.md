@@ -13,7 +13,7 @@
      * Lecture Slides (keynote): [Link](https://docs.google.com/presentation/d/1QfNrK_L4GrO6FQyZTCdpSGkWpw2EHN3M/edit?usp=sharing&ouid=104361959057037146246&rtpof=true&sd=true)
      * Lecture sample: https://youtu.be/EjFanvsr-vk
      * Repl code sample: https://replit.com/@sunyu912/ForsakenTanConversions#main.py
-   * Milestone and goals
+   * Milestone and Goals
      * Student understand the major AI/Machine Learning concept (i.e., dataset, training, prediction)
      * Student understand the basic Sklearn Iris flower classification example code
 
@@ -35,9 +35,29 @@
 
 ### Module 3: Flutter Basics
 1. Mobile Flutter 
-   * Milestone 1: Flutter Setup - Your First Sample App in Emulator
-     * https://youtu.be/JSo0rOMmJOI
-   * Milestone 2: UI Design and Wireframe - Get Your UI Wireframe
+   * Topics
+     * Envrionment setup
+     * IDE/Emulator setup
+     * Run the sample app
+   * References
+     * Follow the tutorial: https://youtu.be/JSo0rOMmJOI
+     * Official doc: https://docs.flutter.dev/get-started/install
+   * Milestones and Goals
+     * Students can create and run the sample app in the Android Emulator    
+
+2. Flutter App Dev Basics
+   * Topics
+     * Project structure
+     * Debug and logs
+     * How to run project
+     * Create screens
+     * Screen navigation
+   * References
+     * Follow the tutorial: Video 02-09 [Playlist](https://www.youtube.com/playlist?list=PLOPZGifDyNifcwTaEdatdFlKxan-6wgdq)
+   * Milestones and Goals
+     * Milestone 2: UI Design and Wireframe - Get Your UI Wireframe
+
+3. Flutter Basic UI
    * Milestone 3: Flutter Basics - Implement the App Skeleton with Screen Navigation 
 
 ### Module 4: Flutter + TensorFlow Lite
