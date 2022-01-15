@@ -3,9 +3,12 @@
 ## Curriculum 
 
 1. AI
-   * The Introduction to AI
-      * Lecture sample: https://youtu.be/EjFanvsr-vk
+   * The Introduction to AI 
    * AI in Actions with Sklearn
+      * Lecture Slides (pptx): [Link](https://drive.google.com/file/d/1QaDNCroT7mR968lUs_43RR8QSu08eNkE/view?usp=sharing)
+      * Lecture Slides (keynote): [Link](https://docs.google.com/presentation/d/1QfNrK_L4GrO6FQyZTCdpSGkWpw2EHN3M/edit?usp=sharing&ouid=104361959057037146246&rtpof=true&sd=true)
+      * Lecture sample: https://youtu.be/EjFanvsr-vk
+      * Repl code sample: https://replit.com/@sunyu912/ForsakenTanConversions#main.py
    * The Introduction to Deep Learning
       * https://docs.google.com/presentation/d/1iUEYAbImuvyEYo-rqdGm_wqxmSKe7bzet2szH40g7BI/edit?usp=sharing
    * Deep Learning in Actions with Keras 
