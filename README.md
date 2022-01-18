@@ -21,7 +21,7 @@
    * The Introduction to Deep Learning
       * https://docs.google.com/presentation/d/1iUEYAbImuvyEYo-rqdGm_wqxmSKe7bzet2szH40g7BI/edit?usp=sharing
    * Deep Learning in Actions with Keras 
-      *  https://colab.research.google.com/drive/1DkyBsN5liUfzGXl08KhYBiSsVPKKsGiU#scrollTo=QPyypnIm-c2k
+      * https://colab.research.google.com/drive/1DkyBsN5liUfzGXl08KhYBiSsVPKKsGiU?usp=sharing
 
 ### Module 2: Tensorflow Lite
 1. TensorFlow Lite
