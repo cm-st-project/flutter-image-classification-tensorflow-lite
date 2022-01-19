@@ -96,4 +96,6 @@
 4. AI Introduction Course
    * Full recorded lectures: https://www.youtube.com/playlist?list=PLSO4tiuu6d-Hwt7ofij-8BbTCjWP5XRbd  
    * CM3 AI 1 curriculum: [Link (login required)](https://codingminds.cc/apps/academy/courses/5fb154a64561f22060615ee1)
+5. Lecture Samples
+    * Full Recorded lectures: https://www.youtube.com/playlist?list=PLSO4tiuu6d-H-lNBOEy2CXBH5NBdTBKaq 
  
