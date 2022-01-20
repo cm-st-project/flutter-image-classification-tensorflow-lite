@@ -20,8 +20,10 @@
 2. Deep Learning and Keras
    * The Introduction to Deep Learning
       * https://docs.google.com/presentation/d/1iUEYAbImuvyEYo-rqdGm_wqxmSKe7bzet2szH40g7BI/edit?usp=sharing
+      * Lecture sample: https://youtu.be/J5zb5lcwEDM
    * Deep Learning in Actions with Keras 
       * https://colab.research.google.com/drive/1DkyBsN5liUfzGXl08KhYBiSsVPKKsGiU?usp=sharing
+      * Lecture Sample: https://youtu.be/kH06OC0N78Q
 
 ### Module 2: Tensorflow Lite
 1. TensorFlow Lite
