@@ -14,16 +14,23 @@
      * Lecture sample: https://youtu.be/EjFanvsr-vk
      * Repl code sample: https://replit.com/@sunyu912/ForsakenTanConversions#main.py
    * Milestone and Goals
-     * Student understand the major AI/Machine Learning concept (i.e., dataset, training, prediction)
-     * Student understand the basic Sklearn Iris flower classification example code
+     * Student understands the major AI/Machine Learning concept (i.e., dataset, training, prediction)
+     * Student understands the basic Sklearn Iris flower classification example code
 
 2. Deep Learning and Keras
-   * The Introduction to Deep Learning
+   * The Introduction to Convolutional Neural Network (CNN)
       * https://docs.google.com/presentation/d/1iUEYAbImuvyEYo-rqdGm_wqxmSKe7bzet2szH40g7BI/edit?usp=sharing
-      * Lecture sample: https://youtu.be/J5zb5lcwEDM
-   * Deep Learning in Actions with Keras 
+      
+   * CNN in Actions with Keras 
       * https://colab.research.google.com/drive/1DkyBsN5liUfzGXl08KhYBiSsVPKKsGiU?usp=sharing
-      * Lecture Sample: https://youtu.be/kH06OC0N78Q
+     
+   * References
+      * Lecture sample (Introduction to CNN): https://youtu.be/J5zb5lcwEDM
+      * Lecture Sample (CNN in Action with Keras): https://youtu.be/kH06OC0N78Q
+      
+   * Milestone and Goals
+   * Student understands the major CNN concept (i.e., Structure of Convolutional Neural Network (Layers))
+   * Student understands the basic Keras - fruit classification example code
 
 ### Module 2: Tensorflow Lite
 1. TensorFlow Lite
