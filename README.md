@@ -19,18 +19,18 @@
 
 2. Deep Learning and Keras
    * The Introduction to Convolutional Neural Network (CNN)
-      * https://docs.google.com/presentation/d/1iUEYAbImuvyEYo-rqdGm_wqxmSKe7bzet2szH40g7BI/edit?usp=sharing
+     * https://docs.google.com/presentation/d/1iUEYAbImuvyEYo-rqdGm_wqxmSKe7bzet2szH40g7BI/edit?usp=sharing
       
    * CNN in Actions with Keras 
-      * https://colab.research.google.com/drive/1DkyBsN5liUfzGXl08KhYBiSsVPKKsGiU?usp=sharing
+     * https://colab.research.google.com/drive/1DkyBsN5liUfzGXl08KhYBiSsVPKKsGiU?usp=sharing
      
    * References
-      * Lecture sample (Introduction to CNN): https://youtu.be/J5zb5lcwEDM
-      * Lecture Sample (CNN in Action with Keras): https://youtu.be/kH06OC0N78Q
+     * Lecture sample (Introduction to CNN): https://youtu.be/J5zb5lcwEDM
+     * Lecture Sample (CNN in Action with Keras): https://youtu.be/kH06OC0N78Q
       
    * Milestone and Goals
-   * Student understands the major CNN concept (i.e., Structure of Convolutional Neural Network (Layers))
-   * Student understands the basic Keras - fruit classification example code
+     * Student understands the major CNN concept (i.e., Structure of Convolutional Neural Network (Layers))
+     * Student understands the basic Keras - fruit classification example code
 
 ### Module 2: Tensorflow Lite
 1. TensorFlow Lite
