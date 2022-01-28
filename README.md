@@ -41,6 +41,9 @@
    * TensorFlow Lite Customize Images and Dataset
    * Milestone 3: Add new types of label and images with re-training
    * Milestone 4: Test the new model with new test images
+   * References
+      * Lecture sample: https://youtu.be/0yViHld8pJY
+      * Google Colab sample: https://colab.research.google.com/drive/1WL3jzx0Ai5Z5EY2IWOD-K0gaPdGShd7l?usp=sharing
 
 ### Module 3: Flutter Basics
 1. Mobile Flutter 
